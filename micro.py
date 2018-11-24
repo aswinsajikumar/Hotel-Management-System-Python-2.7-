@@ -3,7 +3,7 @@
 import sys
 print sys.getdefaultencoding()
 import random
-class hotelfarecal:
+class hotelAaG:
 
     def __init__(self,rt='',s=0,p=0,r=0,t=0,a=1800,name='',address='',cindate='',coutdate='',rno=random.randint(101,115)):
 
@@ -223,7 +223,7 @@ class hotelfarecal:
 
 def main():
 
-    a=hotelfarecal()
+    a=hotelAaG()
     
 
     while (1):
